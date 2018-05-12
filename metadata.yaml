@@ -1,0 +1,31 @@
+_repo: The-Story-of-Anna-Kingsford-and-Edward-Maitland-and-of-the-new-Gospel-of-Interpretation_38590
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38590-h/images/cover1.jpg
+creator:
+  author:
+    agent_name: Maitland, Edward
+    birthdate: 1824
+    deathdate: 1897
+    gutenberg_agent_id: '39556'
+    url: http://www.gutenberg.org/2009/agents/39556
+  editor:
+    agent_name: Hart, Samuel Hopgood
+    gutenberg_agent_id: '39557'
+    url: http://www.gutenberg.org/2009/agents/39557
+description: ''
+gutenberg_issued: '2012-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38590'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kingsford, Anna Bonus, 1846-1888'
+- !lcc 'BF'
+- !lcsh 'Mysticism'
+title: The Story of Anna Kingsford and Edward Maitland and of the new Gospel of Interpretation
+url: http://www.gutenberg.org/ebooks/38590
